@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ffmpeg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-static": "^5.0.0",
+    "ffprobe-static": "^3.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "get-video-duration": "^4.0.0",
+    "js-ffmpeg": "^0.0.36"
+  }
+}
