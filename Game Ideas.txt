@@ -1,0 +1,3 @@
+farming simulator game:
+	start with a tiny plot of land and wheat seeds
+	you can expand your land, get better tools, buy new areas, buy new farming items, hire workers
